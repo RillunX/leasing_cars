@@ -540,7 +540,7 @@ form{
         gap: 30px 20px;
     }
     .important__item-img{
-        width: 100%;;
+        width: 100%;
     }
 }
 
@@ -550,7 +550,7 @@ form{
     }
 }
 
-@media (max-width: 860px){
+@media (min-width: 768px){
     .menu__btn{
         display: flex;
     }
@@ -567,4 +567,5 @@ form{
     }
 
 }
+
  

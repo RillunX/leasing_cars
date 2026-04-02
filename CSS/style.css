@@ -519,14 +519,14 @@ form{
 .menu__btn{
     width: 30px;
     height: 20px;
-    display: none;
+    display: flex;
+    opacity: 0;
     flex-direction: column;
     justify-content: space-between;
     padding: 0;
     border: none;
     background-color: transparent;
     cursor: pointer;
-    display: none;
 }
 
 .menu__btn span{

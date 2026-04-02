@@ -519,7 +519,7 @@ form{
 .menu__btn{
     width: 30px;
     height: 20px;
-    display: flex;
+    display: none;
     flex-direction: column;
     justify-content: space-between;
     padding: 0;

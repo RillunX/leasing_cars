@@ -531,7 +531,6 @@ form{
 
 .menu__btn span{
     height: 2px;
-    display: flex;
     background-color: #fff;
     width: 100%;
 }

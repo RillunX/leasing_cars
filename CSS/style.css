@@ -552,6 +552,7 @@ form{
 @media (min-width: 768px){
     .menu__btn{
         display: flex;
+        opacity: 100;
     }
     
     .why-lease__list{
